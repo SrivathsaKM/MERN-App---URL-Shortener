@@ -1,4 +1,4 @@
-# A URL shortener is an online application that converts a regular URL  into its condensed format. The user only has to copy the full URL of a website and paste it into the URL shortening tool to come up with an abbreviated version .
+## A URL shortener is an online application that converts a regular URL  into its condensed format. The user only has to copy the full URL of a website and paste it into the URL shortening tool to come up with an abbreviated version .
 
 # Features:
 > * Application that has been set up using MVC architecture. 
